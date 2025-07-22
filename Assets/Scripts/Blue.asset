@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 636b09e91b9052e4f9b0a6ce0f8ba574, type: 3}
+  m_Name: Blue
+  m_EditorClassIdentifier: 
+  npcName: Jim
+  npccatchPhrase: To bodly go
+  npcSprite: {fileID: 21300000, guid: e8492bb9c29294be48f26f24ff9414d9, type: 3}
+  npcArmourLevel: 10
+  npcSpeed: 6
+  npcIsFriendly: 1
